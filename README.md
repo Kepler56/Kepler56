@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kepler56&label=Profile%20views&color=0e75b6&style=flat" alt="kepler56" /> </p>
 
-- 🔭 I’m currently in my first gap year internship at TESSAN working as a Data Analyst. With a passion for the ever-evolving world of technology, AI, and data, I am driven by the constant need to stay ahead and embrace the challenges that come with it. I thrive on the pressure to continuously learn and explore new concepts, making this journey an exhilarating one for me.
+- 🔭 I’m currently in my second gap year internship at DAILYMOTION working as a Product Data Analyst. With a passion for the ever-evolving world of technology, AI, and data, I am driven by the constant need to stay ahead and embrace the challenges that come with it. I thrive on the pressure to continuously learn and explore new concepts, making this journey an exhilarating one for me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
